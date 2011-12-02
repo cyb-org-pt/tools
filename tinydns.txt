@@ -1,0 +1,6 @@
+TinyDNS
+
+DNS server/cache, by DJB.
+
+Very simple to install, configure and mantain.
+

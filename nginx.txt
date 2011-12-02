@@ -1,0 +1,8 @@
+NGINX
+
+Fast web/mail server/proxy.
+
+Event driven request processing, leads to small memory footprint and faster request processing once no fork/exec is done.
+
+Very clean configuration and good documentation.
+

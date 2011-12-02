@@ -1,0 +1,9 @@
+Ether Pad
+
+Great tool for collaborative brainstorm logging.
+
+It is useful to take notes during a meeting, because the notes taken by every people during the meeting will be already shared and put together at the end of the meeting.
+
+Chat feature is good for side notes.
+Good to continue a meeting from the notes taken before.
+

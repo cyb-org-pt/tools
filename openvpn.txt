@@ -1,0 +1,15 @@
+OpenVPN
+
+Very good VPN solution!
+
+Authentication based on username and password or asymmetric encryption keys.
+Can authenticate users on LDAP (eg. Open-LDAP or Active Directory).
+
+Connections over TCP or UDP, with efficient IP tunneling.
+
+Client implementations for Windows, Linux, MacOS.
+Easy to install and configure.
+
+One client can connect to multiple VPNs. [check this!]
+
+
