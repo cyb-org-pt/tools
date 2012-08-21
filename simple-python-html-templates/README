@@ -1,0 +1,10 @@
+
+# Start the server.
+./server.sh
+
+# Run the test client.
+./client.sh 100 4
+
+# Open the URL in a browser.
+http://localhost:12345/
+
